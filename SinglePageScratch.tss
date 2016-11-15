@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<ArrayOfArrayOfArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ArrayOfArrayOfString>
+    <ArrayOfString>
+      <string>c:\users\phil\documents\visual studio 2015\projects\singlepagescratch\singlepagescratch\views\home\_home.cshtml</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\Phil\documents\visual studio 2015\Projects\SinglePageScratch\SinglePageScratch\Views\Shared\_Layout.cshtml</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\Phil\documents\visual studio 2015\Projects\SinglePageScratch\SinglePageScratch\Scripts\app\Views\Agency.html</string>
+      <string>C:\Users\Phil\documents\visual studio 2015\Projects\SinglePageScratch\SinglePageScratch\Scripts\app\Views\Agency.js</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\Phil\documents\visual studio 2015\Projects\SinglePageScratch\SinglePageScratch\Api\AgencyController.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\Phil\documents\visual studio 2015\Projects\SinglePageScratch\SinglePageScratch\Scripts\app\Services\AgencyService.js</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>c:\users\phil\documents\visual studio 2015\projects\singlepagescratch\singlepagescratch\app_start\bundleconfig.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\Phil\documents\visual studio 2015\Projects\SinglePageScratch\SinglePageScratch\Scripts\app\Views\Home.html</string>
+      <string>C:\Users\Phil\documents\visual studio 2015\Projects\SinglePageScratch\SinglePageScratch\Scripts\app\Views\Home.js</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\Phil\documents\visual studio 2015\Projects\SinglePageScratch\SinglePageScratch\Controllers\MeController.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\Phil\documents\visual studio 2015\Projects\SinglePageScratch\SinglePageScratch\Scripts\app\root.html</string>
+      <string>C:\Users\Phil\documents\visual studio 2015\Projects\SinglePageScratch\SinglePageScratch\Scripts\app\root.js</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\Phil\documents\visual studio 2015\Projects\SinglePageScratch\SinglePageScratch\Scripts\app\startUp.js</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\Phil\documents\visual studio 2015\Projects\SinglePageScratch\SinglePageScratch\App_Start\WebApiConfig.cs</string>
+    </ArrayOfString>
+  </ArrayOfArrayOfString>
+</ArrayOfArrayOfArrayOfString>
